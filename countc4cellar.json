@@ -67,10 +67,10 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared_herewetalk"
+                 "value":"shared_c4cellarlab"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
