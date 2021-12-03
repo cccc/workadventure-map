@@ -375,9 +375,9 @@
                  "id":0,
                  "properties":[
                         {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"foo.json#bar"
+                         "name":"silent",
+                         "type":"bool",
+                         "value":"true"
                         }]
                 }, 
                 {
