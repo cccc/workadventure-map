@@ -315,7 +315,7 @@
                                 {
                                  "name":"jitsiTriggerMessage",
                                  "type":"string",
-                                 "value":"Test Message"
+                                 "value":"Press SPACE to join the Living Room Jitsi"
                                 }, 
                                 {
                                  "name":"visible",
@@ -532,7 +532,7 @@
                                 {
                                  "name":"openLayer",
                                  "type":"string",
-                                 "value":"hiddenExitOpen"
+                                 "value":"hiddenExitOpened"
                                 }],
                          "rotation":0,
                          "type":"variable",
