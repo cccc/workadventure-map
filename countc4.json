@@ -324,15 +324,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"foo.json#bar"
-                        }]
-                }, 
-                {
                  "id":1,
                  "properties":[
                         {
