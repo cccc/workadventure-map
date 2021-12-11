@@ -459,6 +459,53 @@
                  "width":50,
                  "x":0,
                  "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":46,
+                 "name":"variables",
+                 "objects":[
+                        {
+                         "height":0,
+                         "id":1,
+                         "name":"false",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"bool",
+                                 "value":false
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "height":0,
+                         "id":2,
+                         "name":"hiddenExit",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"bool",
+                                 "value":false
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":32,
+                         "y":0
+                        }],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
                 }],
          "name":"functions",
          "opacity":1,
@@ -467,8 +514,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":46,
- "nextobjectid":1,
+ "nextlayerid":47,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "properties":[
         {
