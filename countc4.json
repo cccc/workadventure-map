@@ -74,6 +74,12 @@
          "id":45,
          "name":"hiddenExitClosed",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -85,12 +91,22 @@
          "height":50,
          "id":50,
          "name":"hiddenExitButton",
-         "opacity":1,
+         "opacity":0,
          "properties":[
+                {
+                 "name":"closeTriggerMessage",
+                 "type":"string",
+                 "value":""
+                }, 
                 {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"hiddenExit"
+                }, 
+                {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":""
                 }, 
                 {
                  "name":"zone",
@@ -100,16 +116,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":50,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":51,
-         "layers":[],
-         "name":"hiddenExit",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
          "x":0,
          "y":0
         }, 
