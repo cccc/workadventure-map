@@ -531,6 +531,11 @@
                          "point":true,
                          "properties":[
                                 {
+                                 "name":"closeLayer",
+                                 "type":"string",
+                                 "value":"hiddenExitClosed"
+                                }, 
+                                {
                                  "name":"default",
                                  "type":"bool",
                                  "value":false
@@ -539,6 +544,11 @@
                                  "name":"door",
                                  "type":"bool",
                                  "value":true
+                                }, 
+                                {
+                                 "name":"openLayer",
+                                 "type":"string",
+                                 "value":"hiddenExitOpened"
                                 }],
                          "rotation":0,
                          "type":"variable",
