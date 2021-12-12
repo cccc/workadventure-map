@@ -536,7 +536,7 @@
                                  "value":false
                                 }, 
                                 {
-                                 "name":"room",
+                                 "name":"door",
                                  "type":"bool",
                                  "value":true
                                 }],
