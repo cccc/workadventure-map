@@ -446,7 +446,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"countc4cellar.json#start"
+                                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/das-labor.github.io\/workadv_das-labor\/main.json"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
