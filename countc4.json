@@ -521,7 +521,7 @@
                  "y":0
                 }],
          "name":"functions",
-         "opacity":0.54,
+         "opacity":0,
          "type":"group",
          "visible":true,
          "x":0,
