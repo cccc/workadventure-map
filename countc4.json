@@ -299,7 +299,12 @@
                                  "name":"jitsiRoom",
                                  "type":"string",
                                  "value":"cccc_livingRoom"
-                                }, 
+                                },
+                                {
+                                 "name":"jitsiConfig",
+                                 "type":"string",
+                                 "value":"{\"disabledSounds\":[]}"
+                                },
                                 {
                                  "name":"visible",
                                  "type":"string",
