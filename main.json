@@ -578,7 +578,13 @@
                          "height":50,
                          "id":80,
                          "name":"tardis",
-                         "opacity":0.78,
+                         "opacity":0,
+                         "properties":[
+                                {
+                                 "name":"startLayer",
+                                 "type":"bool",
+                                 "value":true
+                                }],
                          "type":"tilelayer",
                          "visible":true,
                          "width":50,
