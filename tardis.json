@@ -320,7 +320,7 @@
                                 {
                                  "name":"jitsiTriggerMessage",
                                  "type":"string",
-                                 "value":"Press SPACE to join the Living Room Jitsi"
+                                 "value":"Press SPACE to join the Tardis Jitsi"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
