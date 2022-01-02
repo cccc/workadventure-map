@@ -240,6 +240,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{\"disableAGC\":true, \"disabledSounds\":[]}"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"cccc_cellar"

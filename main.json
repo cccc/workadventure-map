@@ -339,6 +339,11 @@
                          "opacity":0,
                          "properties":[
                                 {
+                                 "name":"jitsiConfig",
+                                 "type":"string",
+                                 "value":"{\"disableAGC\":true, \"disabledSounds\":[]}"
+                                }, 
+                                {
                                  "name":"jitsiRoom",
                                  "type":"string",
                                  "value":"cccc_livingRoom"
@@ -356,6 +361,11 @@
                          "name":"jitsiLivingRoomTheke",
                          "opacity":0,
                          "properties":[
+                                {
+                                 "name":"jitsiConfig",
+                                 "type":"string",
+                                 "value":"{\"disableAGC\":true, \"disabledSounds\":[]}"
+                                }, 
                                 {
                                  "name":"jitsiRoom",
                                  "type":"string",
@@ -385,6 +395,11 @@
                          "opacity":0,
                          "properties":[
                                 {
+                                 "name":"jitsiConfig",
+                                 "type":"string",
+                                 "value":"{\"disableAGC\":true, \"disabledSounds\":[]}"
+                                }, 
+                                {
                                  "name":"jitsiRoom",
                                  "type":"string",
                                  "value":"cccc_fnordCenter"
@@ -402,6 +417,11 @@
                          "name":"jitsiPlenarSaal",
                          "opacity":0,
                          "properties":[
+                                {
+                                 "name":"jitsiConfig",
+                                 "type":"string",
+                                 "value":"{\"disableAGC\":true, \"disabledSounds\":[]}"
+                                }, 
                                 {
                                  "name":"jitsiRoom",
                                  "type":"string",
